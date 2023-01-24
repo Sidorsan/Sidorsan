@@ -1,4 +1,4 @@
-### Hi there 👋
+### Привет! Меня зовут Александр, я начинающий web-разработчик 👋
 
 <!--
 **Sidorsan/Sidorsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
